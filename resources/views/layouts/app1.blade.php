@@ -22,8 +22,6 @@
 
 {{-- FOOTER PART --}}
     @include('inc.footer')
-{{-- FOOTER LINK PART --}}
-    @include('inc.footer')
 
     </body>
     </html>
